@@ -95,6 +95,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInABinarySearchTree",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberHigherOrLower", "GuessNumberHigherOrLower\GuessNumberHigherOrLower.csproj", "{B72E073D-B474-44E3-A798-21636020D962}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DP-1D", "DP-1D", "{6DBBD187-47C4-4E08-ABD5-CDCC1E8C6BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthTribonacciNumber", "NthTribonacciNumber\NthTribonacciNumber.csproj", "{C2873618-EE11-47A5-961C-CEABC7687A89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,6 +233,10 @@ Global
 		{B72E073D-B474-44E3-A798-21636020D962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B72E073D-B474-44E3-A798-21636020D962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B72E073D-B474-44E3-A798-21636020D962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2873618-EE11-47A5-961C-CEABC7687A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2873618-EE11-47A5-961C-CEABC7687A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2873618-EE11-47A5-961C-CEABC7687A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2873618-EE11-47A5-961C-CEABC7687A89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -269,6 +277,7 @@ Global
 		{A9A65583-3807-444C-93B4-8F35264797B5} = {1755E5A0-DF9D-40E7-8CB9-FA1B3C751A5F}
 		{56E020C9-4981-4236-B5AB-B58C4FB23934} = {4073F796-5DA9-4972-BDD3-864259FE50AE}
 		{B72E073D-B474-44E3-A798-21636020D962} = {4073F796-5DA9-4972-BDD3-864259FE50AE}
+		{C2873618-EE11-47A5-961C-CEABC7687A89} = {6DBBD187-47C4-4E08-ABD5-CDCC1E8C6BA3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCBA4BE7-A5D7-47F9-AFAE-979AEEA484AF}
