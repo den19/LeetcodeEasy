@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CountingBits": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
