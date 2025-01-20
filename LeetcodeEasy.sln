@@ -105,6 +105,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BitManipulation", "BitManip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingBits", "CountingBits\CountingBits.csproj", "{0136BA86-07B0-4591-963F-AD37283DF3FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{5E806B16-D1C5-4F6A-B3A2-5808C1AE1F78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,10 @@ Global
 		{0136BA86-07B0-4591-963F-AD37283DF3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0136BA86-07B0-4591-963F-AD37283DF3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0136BA86-07B0-4591-963F-AD37283DF3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E806B16-D1C5-4F6A-B3A2-5808C1AE1F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E806B16-D1C5-4F6A-B3A2-5808C1AE1F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E806B16-D1C5-4F6A-B3A2-5808C1AE1F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E806B16-D1C5-4F6A-B3A2-5808C1AE1F78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -294,6 +300,7 @@ Global
 		{C2873618-EE11-47A5-961C-CEABC7687A89} = {6DBBD187-47C4-4E08-ABD5-CDCC1E8C6BA3}
 		{5E841913-6EC5-4512-9362-D419B41BDDD0} = {6DBBD187-47C4-4E08-ABD5-CDCC1E8C6BA3}
 		{0136BA86-07B0-4591-963F-AD37283DF3FD} = {58147B9C-8BB8-4C1D-9817-3BB5772754C0}
+		{5E806B16-D1C5-4F6A-B3A2-5808C1AE1F78} = {58147B9C-8BB8-4C1D-9817-3BB5772754C0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCBA4BE7-A5D7-47F9-AFAE-979AEEA484AF}
